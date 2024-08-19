@@ -1,9 +1,9 @@
 # Merhaba! 👋
-Ben Kübra Özdemir, Frontend Web Developer ve Web3 Enthusiast.
+Ben Kübra Özdemir, Frontend Web Developer.
 
-- 🌱 Şu anda **React.js**, **Redux** ve **Web3** teknolojileri üzerinde çalışıyorum.
-- 💻 **JavaScript** ile 3 yılı aşkın bir süredir kod yazıyorum ve Web3 dünyasına adım atıyorum.
-- 🎯 Hedefim: **Web3** teknolojilerini öğrenmek ve mevcut projelerimde kullanmak.
+- 🌱 Şu anda **React.js** ve **Redux** üzerinde çalışıyorum.
+- 💻 **JavaScript** ile 3 yılı aşkın bir süredir kod yazıyorum.
+- 🎯 Hedefim: Full Stack Developer olmak ve **Node.js**'de uzmanlaşmak.
 - ⚡ Eğlenceli Bilgi: **Amigurumi** örmeyi seviyorum.
 
 ## Öne Çıkan Projeler
