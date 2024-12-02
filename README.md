@@ -27,7 +27,7 @@ Ben Kübra Özdemir, Frontend Web Developer.
 
 ## İletişim
 
-- LinkedIn: [linkedin.com/in/kübra-özdemir-663041223/](https://www.linkedin.com/in/kübra-özdemir-663041223/)
+- LinkedIn: [linkedin.com/in/kübra-özdemir-663041223/](https://www.linkedin.com/in/k%C3%BCbra-%C3%B6zdemir-181633327/)
 - E-posta: [kbraozdemir18@gmail.com](mailto:kbraozdemir18@gmail.com)
 
 Teşekkürler! Profilimi ziyaret ettiğiniz için mutluyum. 😊
