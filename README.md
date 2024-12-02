@@ -10,7 +10,7 @@ Ben Kübra Özdemir, Frontend Web Developer.
 
 - [Cinema Ticket Booking App](https://github.com/kbraozdemir/TicketApp): React.js ile yazılmış bir sinema bileti satın alma uygulaması.
 - [Patika.Dev NoteApp](https://github.com/kbraozdemir/PatikaDevNotesApp): React.js ve Redux kullanılarak yazılmış not defteri uygulaması.
-- 
+
 ## Kullandığım Teknolojiler
 
 - **Frontend:** HTML, CSS, JavaScript, React.js, Redux
