@@ -8,13 +8,15 @@ Ben Kübra Özdemir, Frontend Web Developer.
 
 ## Öne Çıkan Projeler
 
+
+- [Pastel Blog](https://github.com/kbraozdemir/pastel-page): Next.JS 14 ve TAilwind kullanılarak yazılmış teknik blog projesidir.
 - [Cinema Ticket Booking App](https://github.com/kbraozdemir/TicketApp): React.js ile yazılmış bir sinema bileti satın alma uygulaması.
 - [Patika.Dev NoteApp](https://github.com/kbraozdemir/PatikaDevNotesApp): React.js ve Redux kullanılarak yazılmış not defteri uygulaması.
 
 ## Kullandığım Teknolojiler
 
-- **Frontend:** HTML, CSS, JavaScript, React.js, Redux
-- **Backend:** Node.js (öğrenme aşamasında)
+- **Frontend:** HTML, CSS, JavaScript Tailwind, React.js, Redux
+- **Backend:** Node.js (öğrenme aşamasında), Next.JS
 - **Web3:** Solidity (öğrenme aşamasında), Ethereum, IPFS
 - **Araçlar:** Git, GitHub, VS Code
 
